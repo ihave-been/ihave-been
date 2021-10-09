@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ihave-been
-- 👀 I’m interested in blockchain pharmacy economy
+- 👀 I’m interested in blockchain pharmacy 
 - 🌱 I’m currently learning economy
-- 💞️ I’m looking to collaborate on blockchain, economy, dao
+- 💞️ I’m looking to collaborate on blockchain, economy
 
 
 <!---
